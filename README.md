@@ -4,7 +4,8 @@
   </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- --
 - 👨‍💻 Faço bacharel em Engenharia de Software pela <a href="https://estacio.br/" target="_blank">Estácio<a/> 
 - 📖 Atualmente estudo programação por cursos como <a href="https://www.origamid.com/" target="_blank">Origamid<a/>, <a href="https://web.dio.me/home" target="_blank">DIO<a/>.
 - 💻 Gosto bastante de resolver desafios baseados em linguagens **C/C++** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
