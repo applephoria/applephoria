@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Me chamo Marcel "Maçã 🍎" <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>- Software Engineer Full-stack in the making. ⏳ Progress = { █████_________ } 29.21% </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p>- Software Engineer Full-stack in the making. ⏳ Progress = { █████___________ } 29.21% </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: ------------------------------------------------------------------------------------- //
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: ---------------------------------------------------------------------------------- //
 
 - 👨‍💻 Faço bacharel em Engenharia de Software pela <a href="https://estacio.br/" target="_blank">Estácio<a/> 
 - 📖 Atualmente estudo programação por cursos como <a href="https://www.origamid.com/" target="_blank">Origamid<a/>, <a href="https://web.dio.me/home" target="_blank">DIO<a/>.
